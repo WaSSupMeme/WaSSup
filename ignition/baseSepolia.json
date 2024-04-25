@@ -1,0 +1,10 @@
+{
+    "WassupModule": {
+        "owner": "0xB8e3452E62B45e654a300a296061597E3Cf3e039",
+        "minter": "0xB8e3452E62B45e654a300a296061597E3Cf3e039",
+        "name": "WASSUP",
+        "symbol": "WASSUP",
+        "lzEndpoint": "0x6EDCE65403992e310A62460808c4b910D972f10f",
+        "maxSupply": "420690000000000000000000000000n"
+    }
+}
