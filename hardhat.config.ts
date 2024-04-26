@@ -59,6 +59,7 @@ const config: HardhatUserConfig = {
   etherscan: {
     apiKey: {
       mainnet: process.env.ETHERSCAN_API_KEY as string,
+      sepolia: process.env.ETHERSCAN_API_KEY as string,
       base: process.env.BASESCAN_API_KEY as string,
       baseSepolia: process.env.BASESCAN_API_KEY as string,
       zkSync: process.env.ERASCAN_API_KEY as string,
@@ -75,12 +76,20 @@ const config: HardhatUserConfig = {
           browserURL: "https://sepolia.basescan.org",
         },
       },
+      {
+        network: "base",
+        chainId: 8453,
+        urls: {
+          apiURL: "https://api.basescan.org/api",
+          browserURL: "https://basescan.org",
+        },
+      },
     ],
   },
   ignition: {
     strategyConfig: {
       create2: {
-        salt: "0xd7da8c60fb43deda6b808b1aa5f3b5154115f824dd45f66d92d7be7f927ca987",
+        salt: "0xab677faca7730bf27fc0f2deacf0362eeed4b24f2a5e717e7b17f2d150481fbf",
       },
     },
   },

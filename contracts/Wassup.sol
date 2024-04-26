@@ -15,7 +15,7 @@ contract Wassup is Memecoin {
    * @param _minter The address that will receive the max supply of the Wassup token initially on Base and distribute it in an airdrop
    * @param _name The name of the token
    * @param _symbol The symbol of the token
-   * @param _lzEndpoint The address of the LayerZero endpoint contract for the chain of deployment (Base)
+   * @param _lzEndpoint The address of the LayerZero endpoint contract for the chain of deployment
    * @param _maxSupply The maximum supply of the Wassup token
    */
   constructor(
