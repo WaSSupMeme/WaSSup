@@ -22,8 +22,8 @@ Wassa-wassa-wassa-wassa-wassa-wassa-wassup!
 
 🎤 [Telegram](https://t.me/wassup_on_base)
 
-🎤 [Buy on Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x5668F69ac55d3c86fa7275908fC753dAee585D5c&chain=base)
+🎤 [Buy on Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x3339E8800Aa7233060741046650797B8723A2954&chain=base)
 
-🎤 [DexScreener](https://dexscreener.com/base/0x5668F69ac55d3c86fa7275908fC753dAee585D5c)
+🎤 [DexScreener](https://dexscreener.com/base/0x3339E8800Aa7233060741046650797B8723A2954)
 
-🎤 [DexTools](https://www.dextools.io/app/en/base/pair-explorer/0xa08d762085cfd03e37c5c0c6a4739f07ffc15301?t=1713622195470)
+🎤 [DexTools](https://www.dextools.io/app/en/base/pair-explorer/0x7D7CB63e100894A96dfB8Acb6d1734A670A2e718)
